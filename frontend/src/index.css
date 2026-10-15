@@ -1,0 +1,3 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{background:#0B1020;color:#fff;font-family:Inter,"Noto Sans Devanagari",sans-serif}
+.hi{font-family:"Noto Sans Devanagari",Inter,sans-serif}

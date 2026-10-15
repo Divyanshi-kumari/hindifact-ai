@@ -1,0 +1,13 @@
+backend/.venv/
+backend/__pycache__/
+backend/.env
+backend/artifacts/
+backend/muril/
+backend/corpus.csv
+backend/corpus_emb.npy
+backend/sbert_lr.joblib
+backend/artifacts_bundle.zip
+*.zip
+frontend/node_modules/
+frontend/dist/
+frontend/.env

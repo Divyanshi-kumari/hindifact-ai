@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+torch
+transformers
+sentence-transformers
+rank_bm25
+numpy
+pandas
